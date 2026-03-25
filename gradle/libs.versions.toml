@@ -1,6 +1,5 @@
 [versions]
 agp = "9.0.1"
-kotlin = "2.2.10"
 coreKtx = "1.15.0"
 appcompat = "1.7.0"
 junit = "5.10.1"
@@ -28,4 +27,3 @@ cucumber-junit-platform = { group = "io.cucumber", name = "cucumber-junit-platfo
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
-kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
